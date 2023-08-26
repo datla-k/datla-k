@@ -1,4 +1,4 @@
-### Hi there, I'm Koushik varma 👋
+# Hi there, I'm Koushik varma 👋
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-sri-sai-varma-datla-696662141)
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
