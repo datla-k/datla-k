@@ -1,6 +1,6 @@
 # Hi there, I'm Koushik varma 👋
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koushik-sri-sai-varma-datla-696662141)
-
+### Machine Learning Engineer | Data Scientist
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
 I'm into __Data Science__, __Machine Learning__, and __Deep Learning__. I find these fields super exciting and I'm always keeping up with the latest trends and developments. I'm ready to dive into cool projects that challenge me and let me apply what I've learned.
