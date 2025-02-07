@@ -3,7 +3,7 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me 💼🎒: </h2>
 
-I'm really into __Data Science__, __Machine Learning__, and __Deep Learning__. I find these fields super exciting and I'm always keeping up with the latest trends and developments. I'm ready to dive into cool projects that challenge me and let me apply what I've learned.
+I'm into __Data Science__, __Machine Learning__, and __Deep Learning__. I find these fields super exciting and I'm always keeping up with the latest trends and developments. I'm ready to dive into cool projects that challenge me and let me apply what I've learned.
 
 <h2> 👨‍🎓🙋‍♂️ My Education Background 💼🎒: </h2>
 
